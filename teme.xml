@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Teme>
+<Entitati>
     <tema ID="1">
         <Descriere>File</Descriere>
         <Deadline>7</Deadline>
@@ -15,4 +15,29 @@
         <Deadline>9</Deadline>
         <Startline>7</Startline>
     </tema>
-</Teme>
+    <tema ID="4">
+        <Descriere>tema test</Descriere>
+        <Deadline>9</Deadline>
+        <Startline>7</Startline>
+    </tema>
+    <tema ID="-1">
+        <Descriere>tre_sa_crape</Descriere>
+        <Deadline>10</Deadline>
+        <Startline>9</Startline>
+    </tema>
+    <tema ID="5">
+        <Descriere>makai_tema</Descriere>
+        <Deadline>10</Deadline>
+        <Startline>9</Startline>
+    </tema>
+    <tema ID="6">
+        <Descriere>service_test_new_id_should_add</Descriere>
+        <Deadline>9</Deadline>
+        <Startline>7</Startline>
+    </tema>
+    <tema ID="7">
+        <Descriere>service_test_new_id_should_add</Descriere>
+        <Deadline>9</Deadline>
+        <Startline>7</Startline>
+    </tema>
+</Entitati>
